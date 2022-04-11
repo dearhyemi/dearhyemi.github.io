@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
-
 /*
 	Big Picture by HTML5 UP
 	html5up.net | @ajlkn
@@ -33,6 +32,8 @@ html5-video-player ytp-exp-bottom-control-flexbox ytp-title-enable-channel-logo 
 }
 body {
 	line-height: 1;
+	font-family: 'Noto Sans KR', sans-serif; 
+
 }
 
 ol, ul {
