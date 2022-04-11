@@ -1962,8 +1962,9 @@ input, select, textarea {
 		}
 
 			.main.style1 h2 {
-				font-size: 4.25em;
-				line-height: 1em;
+				font-size: 2.25em;
+				line-height: 1.25em;
+				font-family: 'NanumSquare';
 			}
 
 			.main.style1 > .content {
