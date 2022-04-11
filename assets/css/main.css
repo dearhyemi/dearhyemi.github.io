@@ -523,7 +523,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			body, input, textarea, select {
-				font-size: 15pt;
+				font-size: 15pt;#
 			}
 
 		}
@@ -1844,12 +1844,12 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			position: absolute;
-			left: 1em;
-			top: 0;
-			height: 3em;
-			line-height: 3em;
-			cursor: default;
+			    position: absolute;
+    left: 1em;
+    top: 0.6em;
+    line-height: 0em;
+    cursor: default;
+    font-size: 20px;
 		}
 
 			#header h1 a {
