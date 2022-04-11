@@ -553,7 +553,7 @@ input, select, textarea {
 
 		}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, {
 		font-weight: 900;
 		color: inherit;
 		letter-spacing: -0.0325em;
@@ -625,7 +625,9 @@ input, select, textarea {
 
 p{
 	margin-bottom: 1em;
-    font-family: 'NanumSquare';}
+    font-family: 'NanumSquare';
+font-size:16px;
+}
 /* Box */
 
 	.box {
