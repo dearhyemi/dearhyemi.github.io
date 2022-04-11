@@ -624,7 +624,7 @@ input, select, textarea {
 	}
 
 p{
-	margin-bottom: 1em;
+	
     font-family: 'NanumSquare';
 font-size:17px;
 }
@@ -1196,11 +1196,11 @@ font-size:17px;
 
 		header p {
 			display: block;
-			margin: 1em 0 0 0;
-			padding: 0 0 0.5em 0;
+		/*	margin: 1em 0 0 0;
+			padding: 0 0 0.5em 0; */
 			    font-family: 'NanumSquare';
 			    font-weight: 800;
-    font-size: 18px;
+			font-size: 18px;
 }
 		}
 
