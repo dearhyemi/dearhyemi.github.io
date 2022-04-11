@@ -2270,7 +2270,7 @@ font-size:17px;
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/full3.jfif");
+		background: url("images/overlay.png"), url("../../images/full7.jfif");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
