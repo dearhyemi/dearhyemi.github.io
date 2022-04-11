@@ -618,10 +618,13 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p, ul, ol, dl, table {
+	ul, ol, dl, table {
 		margin-bottom: 1em;
 	}
 
+p{
+	margin-bottom: 1em;
+    font-family: 'NanumSquare';}
 /* Box */
 
 	.box {
@@ -1192,6 +1195,7 @@ input, select, textarea {
 			display: block;
 			margin: 1em 0 0 0;
 			padding: 0 0 0.5em 0;
+			    font-family: 'NanumSquare';
 		}
 
 	footer {
