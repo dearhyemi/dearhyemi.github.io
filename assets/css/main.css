@@ -692,8 +692,7 @@ font-size:17px;
 		input[type="reset"].down,
 		.button.down,
 		button.down {
-			    position: relative;
-    top: 10em;
+			
 			width: 5em;
 			height: 5em;
 			line-height: 4.5em;
