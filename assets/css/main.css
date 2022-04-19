@@ -594,6 +594,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
 		color: #98c593;
+    text-decoration-line: none;
 	}
 
 	sub {
@@ -628,6 +629,7 @@ p{
     font-family: 'NanumSquare';
 font-size:17px;
 	font-weight:500;
+	line-height: 1.5;
 }
 
 /* Box */
